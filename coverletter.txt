@@ -1,0 +1,18 @@
+I am writing to express my keen interest in the Software Developer Internship at Seagate. My educational background, technical proficiency, and hands-on experience in software engineering position me as an ideal candidate to contribute to your dynamic team.
+
+My project portfolio underscores my technical prowess and problem-solving abilities. Leading a team of five, we developed a Marketplace for Open Source Projects. This platform encourages collaborative innovation and demonstrates potential for addressing space-related challenges, aligning with my passion for open-source development and collaborative initiatives.
+
+In my project, "Autonomous Drone Navigation With Computer Vision," I harnessed cutting-edge computer vision algorithms to achieve precise object detection, obstacle avoidance, and path planning for unmanned aerial vehicles. This project serves as a testament to my dedication to exploring emerging technologies and their practical applications.
+
+My certification credentials include Amazon Certified: Amazon Web Services Solutions Architect - Professional and Microsoft Certified: Power Platform Fundamentals, reflecting my unwavering commitment to continuous learning and professional advancement. Notably, I secured a 93.6 percentile in the JEE Mains examination and earned qualification in the Indian National Mathematics Olympiad (INMO), underscoring my mathematical acumen and problem-solving skills.
+
+My leadership roles, including Core Membership in Ideathon @MIET and Web Developer for the Google Developer Student Club @MIET, have equipped me with proficient communication, teamwork, and project management abilities. I thrive in collaborative environments and excel in roles that require responsibility and initiative.
+
+Beyond my professional pursuits, I am passionate about music production, guitar playing, and participating in sports such as table tennis, chess (with a FIDE Rating of 1135), and cricket. These interests reflect my creativity, discipline, and capacity to balance diverse activities.
+
+In closing, my educational background, technical proficiency, and unwavering commitment position me as a strong candidate for the [Job Title] position at [Company Name]. I eagerly anticipate the opportunity for further discussion and the chance to demonstrate my qualifications in greater depth.
+
+Thank you for considering my application.
+
+Sincerely,
+Nishant Sirohi
